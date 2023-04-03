@@ -18,7 +18,7 @@
  <br>
  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-  <br>
+<br>
   
 ### 👉 CONTACTS 👈
 <a href="https://minsu20.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white&link=https://minsu20.tistory.com/"/></a>
