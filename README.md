@@ -30,7 +30,9 @@
 <a href="https://minsu20.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white&link=https://minsu20.tistory.com/"/></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/su__.00_/)  
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=minsu20&theme=default)](https://minsu20.tistory.com)
+### Problem Solve
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syt07100)](https://solved.ac/syt07100/)
+
 </div><br>
 
 </div>
